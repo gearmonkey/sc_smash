@@ -16,6 +16,9 @@ develop-eggs
 # Installer logs
 pip-log.txt
 
+# virtual enviorment stuff
+scenv
+
 # Unit test / coverage reports
 .coverage
 .tox
